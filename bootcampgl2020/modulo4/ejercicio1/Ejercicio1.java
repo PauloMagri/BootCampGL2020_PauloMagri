@@ -1,4 +1,4 @@
-package modulo4;
+package ejercicio1;
 
 public class Ejercicio1 {
 	
