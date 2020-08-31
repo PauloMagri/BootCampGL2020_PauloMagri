@@ -1,0 +1,1 @@
+package com.globallogic.hibernate_example.entity;

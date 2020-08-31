@@ -1,0 +1,1 @@
+package com.globallogic.hiibernate_example;
